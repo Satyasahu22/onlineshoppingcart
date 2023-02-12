@@ -1,0 +1,8 @@
+celery
+CurrencyConverter
+Flask
+Flask-SQLAlchemy
+SQLAlchemy
+alchemy-mock
+pytest
+forex-python
